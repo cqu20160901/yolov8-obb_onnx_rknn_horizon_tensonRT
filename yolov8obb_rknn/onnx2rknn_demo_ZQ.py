@@ -294,7 +294,7 @@ if __name__ == '__main__':
     origin_image = cv2.imread(image_path)
     image_h, image_w = origin_image.shape[:2]
     
-    image = cv2.resize(origin_image, (input_width, image_w), interpolation=cv2.INTER_LINEAR)
+    image = cv2.resize(origin_image, (input_width, input_height), interpolation=cv2.INTER_LINEAR)
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     
     image = np.expand_dims(image, 0)
