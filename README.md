@@ -1,0 +1,2 @@
+# yolov8obb_onnx_rknn_horizon_tensonRT
+yolov8 旋转目标检测部署，瑞芯微RKNN芯片部署、地平线Horizon芯片部署、TensorRT部署
