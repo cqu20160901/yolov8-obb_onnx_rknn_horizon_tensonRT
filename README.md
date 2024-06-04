@@ -1,6 +1,6 @@
-# yolov8obb_onnx_rknn_horizon_tensonRT
+# yolov8-obb_onnx_rknn_horizon_tensonRT
 
-yolov8obb 旋转目标检测部署，瑞芯微RKNN芯片部署、地平线Horizon芯片部署、TensorRT部署
+yolov8-obb 旋转目标检测部署，瑞芯微RKNN芯片部署、地平线Horizon芯片部署、TensorRT部署
 
 导出 onnx 参考链接 [【yolov8-obb 旋转目标检测 瑞芯微RKNN芯片部署、地平线Horizon芯片部署、TensorRT部署】](https://blog.csdn.net/zhangqian_1/article/details/139437315)
 
